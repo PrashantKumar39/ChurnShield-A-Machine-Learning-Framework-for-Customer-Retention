@@ -1,1 +1,3 @@
 # PrashantKumar39-ChurnShield-A-Machine-Learning-Framework-for-Customer-Retention
+
+- This project analyzes the Telco customer churn dataset to identify the key factors driving customer churn. The main objective is to build a machine learning model that predicts which customers are most likely to churn. Understanding these factors enables the telecommunications company to implement targeted strategies to improve retention and reduce revenue loss. The project includes data cleaning, exploratory data analysis, feature engineering, and evaluation of multiple classification models to determine the most accurate predictor of churn.
