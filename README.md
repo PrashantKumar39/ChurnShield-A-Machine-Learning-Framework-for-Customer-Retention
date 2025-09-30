@@ -5,14 +5,33 @@
 
 ## Dataset
 
-- The dataset used in this project is the ChurnShield-A-Machine-Learning-Framework-for-Customer-Retention dataset, which contains information about customer demographics, account details, and services they have signed up for.
+The dataset contains information about **customer demographics**, **account details**, and **service usage behavior**.  
+It helps analyze factors contributing to **customer churn** and **retention strategies**.
 
-- Table of Contents
-- Installation
-- Methodology
-- Exploratory Data Analysis (EDA)
-- Visualizations
-- Results and Conclusion
+**Key Features:**
+
+- **CustomerID:** Unique identifier for each customer.  
+- **Gender:** Gender of the customer.  
+- **SeniorCitizen:** Indicates whether the customer is a senior citizen.  
+- **Partner:** Whether the customer has a partner.  
+- **Dependents:** Whether the customer has dependents.  
+- **Tenure:** Number of months the customer has stayed with the company.  
+- **PhoneService:** Whether the customer has phone service.  
+- **MultipleLines:** Whether the customer has multiple lines.  
+- **InternetService:** Type of internet service.  
+- **OnlineSecurity:** Whether the customer has online security.  
+- **OnlineBackup:** Whether the customer has online backup.  
+- **DeviceProtection:** Whether the customer has device protection.  
+- **TechSupport:** Whether the customer has tech support.  
+- **StreamingTV:** Whether the customer has streaming TV service.  
+- **StreamingMovies:** Whether the customer has streaming movie service.  
+- **Contract:** Type of contract (Month-to-month, One year, Two year).  
+- **PaperlessBilling:** Whether the customer uses paperless billing.  
+- **PaymentMethod:** Customer’s preferred payment method.  
+- **MonthlyCharges:** Monthly charges billed to the customer.  
+- **TotalCharges:** Total amount charged during the customer’s tenure.  
+- **Churn:** Indicates whether the customer churned (Yes/No).  
+
 
 ##  Methodology
 
