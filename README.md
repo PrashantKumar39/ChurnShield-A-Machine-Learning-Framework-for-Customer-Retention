@@ -144,7 +144,7 @@ Telecom companies can leverage these insights to design **targeted retention cam
 ```md
 ## Author
 
-**Prashant Kumar** 
+Prashant Kumar 
 [LinkedIn Profile](https://www.linkedin.com/in/prashant-kumar-ai/)  
 📧 Email: prashantkumaryt53@gmail.com.com  
 
