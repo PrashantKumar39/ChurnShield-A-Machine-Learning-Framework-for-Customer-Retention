@@ -3,7 +3,7 @@
 - This project analyzes the Telco customer churn dataset to identify the key factors driving customer churn. The main objective is to build a machine learning model that predicts which customers are most likely to churn. Understanding these factors enables the telecommunications company to implement targeted strategies to improve retention and reduce revenue loss. The project includes data cleaning, exploratory data analysis, feature engineering, and evaluation of multiple classification models to determine the most accurate predictor of churn.
 
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains demographic and service-related details of telecom customers. 
 Each record represents a single customer with features describing their account information, service usage, and churn behavior.
@@ -140,9 +140,9 @@ Telecom companies can leverage these insights to design **targeted retention cam
 
 ---
 
-## ✍️ **10. Author Information (Optional)**
+## **10. Author Information (Optional)**
 ```md
-## 👨‍💻 Author
+## Author
 
 **Prashant Kumar** 
 [LinkedIn Profile](https://www.linkedin.com/in/prashant-kumar-ai/)  
