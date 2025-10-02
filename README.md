@@ -1,5 +1,5 @@
 # ChurnShield-A-Machine-Learning-Framework-for-Customer-Retention
-
+--- 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-lightblue?style=flat-square)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=flat-square)](https://numpy.org/)
@@ -15,10 +15,19 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Documentation](https://img.shields.io/badge/Documentation-Notes-lightgrey?style=flat-square)](#)
 
-- This project analyzes the Telco customer churn dataset to identify the key factors driving customer churn. The main objective is to build a machine learning model that predicts which customers are most likely to churn. Understanding these factors enables the telecommunications company to implement targeted strategies to improve retention and reduce revenue loss. The project includes data cleaning, exploratory data analysis, feature engineering, and evaluation of multiple classification models to determine the most accurate predictor of churn.
+--- 
+### Problem Statement:
+- The telecom industry faces significant revenue loss due to customer churn, where customers discontinue services. The problem is to predict which customers are likely to churn using historical customer data, enabling the company to implement targeted retention strategies. This is framed as a binary classification problem where the target variable is Churn (Yes/No).
+
+--- 
+### Project Overview:
+
+- The Telco Customer Churn Analysis project aims to predict which customers are likely to leave using demographic, service, and account data. I performed data cleaning, exploratory analysis, and feature engineering, including one-hot encoding and tenure-based metrics. I built tree-based models like Decision Tree, Random Forest, and XGBoost, and evaluated them using accuracy, F1-score, and ROC-AUC. The project provides actionable insights for targeted retention strategies, helping reduce churn and improve customer loyalty.
 
 
 
+
+---
 ## Dataset Information
 
 The dataset contains demographic and service-related details of telecom customers. 
@@ -47,9 +56,9 @@ Each record represents a single customer with features describing their account 
 - `TotalCharges` — Total amount charged to the customer  
 - `Churn` — Target variable (Yes / No)
 
+---
 
-
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 EDA was performed to understand data patterns, distributions, and relationships between features and churn behavior.
 
@@ -90,7 +99,7 @@ EDA was performed to understand data patterns, distributions, and relationships 
 
 <img width="1067" height="986" alt="Pairwise Relationships by Churn Status" src="https://github.com/user-attachments/assets/0fda849b-6c72-4170-aab2-3297c1d943df" />
 
-
+--- 
 ## Methodology
 
 The project follows a structured machine learning workflow:
@@ -130,7 +139,7 @@ The project follows a structured machine learning workflow:
   - Google Colab for analysis and documentation
 
 
-
+---
 
 ## Future Work
 
@@ -140,6 +149,7 @@ The project follows a structured machine learning workflow:
 - Incorporate **real-time churn prediction** from live customer data.  
 - Add **explainability (SHAP / LIME)** to interpret feature impact.
 
+---
 ## Conclusion
 
 The analysis successfully identified key drivers of customer churn.  
