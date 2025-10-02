@@ -1,7 +1,21 @@
 # ChurnShield-A-Machine-Learning-Framework-for-Customer-Retention
 
-- This project analyzes the Telco customer churn dataset to identify the key factors driving customer churn. The main objective is to build a machine learning model that predicts which customers are most likely to churn. Understanding these factors enables the telecommunications company to implement targeted strategies to improve retention and reduce revenue loss. The project includes data cleaning, exploratory data analysis, feature engineering, and evaluation of multiple classification models to determine the most accurate predictor of churn.
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-lightblue?style=flat-square)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=flat-square)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?style=flat-square)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green?style=flat-square)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-lightgreen?style=flat-square)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-ML-lightblue?style=flat-square)](https://xgboost.readthedocs.io/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-red?style=flat-square)](https://colab.research.google.com/)
+[![EDA](https://img.shields.io/badge/EDA-Analysis-yellow?style=flat-square)](#)
+[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-ML-blue?style=flat-square)](#)
+[![Data Cleaning & Preprocessing](https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-Using_Pandas-orange?style=flat-square)](#)
+[![Outlier Detection](https://img.shields.io/badge/Outlier%20Detection-ML-red?style=flat-square)](#)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Documentation](https://img.shields.io/badge/Documentation-Notes-lightgrey?style=flat-square)](#)
 
+- This project analyzes the Telco customer churn dataset to identify the key factors driving customer churn. The main objective is to build a machine learning model that predicts which customers are most likely to churn. Understanding these factors enables the telecommunications company to implement targeted strategies to improve retention and reduce revenue loss. The project includes data cleaning, exploratory data analysis, feature engineering, and evaluation of multiple classification models to determine the most accurate predictor of churn.
 
 
 
