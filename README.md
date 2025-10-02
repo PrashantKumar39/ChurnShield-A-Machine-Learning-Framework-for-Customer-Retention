@@ -1,4 +1,4 @@
-# ChurnShield A Machine Learning Framework for Customer Retention
+# ChurnShield A Machine Learning Framework for Customer Retention 
 --- 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-lightblue?style=flat-square)](https://pandas.pydata.org/)
