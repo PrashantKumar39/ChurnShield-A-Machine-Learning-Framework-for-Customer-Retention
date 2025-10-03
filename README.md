@@ -25,8 +25,6 @@
 - The Telco Customer Churn Analysis project aims to predict which customers are likely to leave using demographic, service, and account data. I performed data cleaning, exploratory analysis, and feature engineering, including one-hot encoding and tenure-based metrics. I built tree-based models like Decision Tree, Random Forest, and XGBoost, and evaluated them using accuracy, F1-score, and ROC-AUC. The project provides actionable insights for targeted retention strategies, helping reduce churn and improve customer loyalty.
 
 
-
-
 ---
 ## Dataset Information
 
