@@ -18,7 +18,6 @@
 --- 
 ### Problem Statement:
 - The telecom industry faces significant revenue loss due to customer churn, where customers discontinue services. The problem is to predict which customers are likely to churn using historical customer data, enabling the company to implement targeted retention strategies. This is framed as a binary classification problem where the target variable is Churn (Yes/No).
-
 --- 
 ### Project Overview:
 
